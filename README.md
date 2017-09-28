@@ -2,7 +2,9 @@
 ===================
 A Slim 3 middleware muestra visitas por url
 
-##Práctica final del módulo 3
+Se encarga de mantener actualizadas las estadísticas de uso del sitio web.
+Para ello tendrá que crear una tabla nueva en la base de datos para las estadisticas Url , visitas. 
+El middleware incrementará el contador de visitas asociado a cada URL.
 
 ##Install the Middleware
 ----------------------
